@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp 664 hello
+su -p olleh
