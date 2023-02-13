@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '"Hello, World"'
+printf "Hello, World" > 0-hello_world
