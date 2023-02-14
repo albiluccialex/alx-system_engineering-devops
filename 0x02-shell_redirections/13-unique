@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | ls -l --unique
+ls -l | uniq -u
