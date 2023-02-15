@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -path "./*" | ls -la
+find . -type fd -empty | ls -a -1
