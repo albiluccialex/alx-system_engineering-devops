@@ -1,2 +1,2 @@
 #!/bin/bash
-tr --truncate-Ac 'ze'
+tr --truncate-Ac ze
