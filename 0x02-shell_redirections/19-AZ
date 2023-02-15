@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Ac | tr -d Ac Ze
+echo "^[[:alpha:]]" | tr -d A,c Z,e
