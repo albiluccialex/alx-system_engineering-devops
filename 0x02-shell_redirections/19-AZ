@@ -1,2 +1,2 @@
 #!/bin/bash
-tr --truncate-A,c "[z,c]"
+tr --truncate-Ac 'ze'
