@@ -1,2 +1,2 @@
 #!/bin/bash
-tr --truncate-Ac ze
+echo "^[[ :alpha: ]] | tr -t Ac ze
