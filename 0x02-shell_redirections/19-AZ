@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "^[[ :alpha: ]] | tr -t Ac ze
+echo "^[[ :alpha: ]]" | tr Ac ze
