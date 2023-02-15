@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "^[[:alpha:]]" | tr Ac ze
+echo "^[[:alpha:]]" | tr A,c z,e
