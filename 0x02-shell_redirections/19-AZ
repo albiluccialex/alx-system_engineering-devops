@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "^[[:alphs:]]" | tr -d Ac Ze
+echo Ac | tr -d Ac Ze
