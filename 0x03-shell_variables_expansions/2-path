@@ -1,2 +1,2 @@
 #!/bin/bash
-which /action
+which /action | grep /action
